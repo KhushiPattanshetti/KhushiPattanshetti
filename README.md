@@ -1,4 +1,4 @@
-
+Hi, I am Khushi Pattanshetti! <br>
 I’m a Final Year Computer Engineering student at COEP Tech, Pune.  
 I’m passionate about building impactful software, exploring new technologies, and solving real-world problems through code.
 
@@ -33,7 +33,6 @@ I’m passionate about building impactful software, exploring new technologies, 
 
 - 📧 Email: khushi.pattanshetti@gmail.com  
 - 💼 LinkedIn: [Khushi Pattanshetti](https://www.linkedin.com/in/khushi-pattanshetti)  
-- 🗂️ Portfolio (Coming Soon...)
 
 ---
 
